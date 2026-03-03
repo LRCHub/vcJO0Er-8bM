@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "キミがいる",
+  "base_artist": "いきものがかり",
+  "createdAt": "2026-03-03T16:37:23.615961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/01_キミがいる_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キミがいる (TV EDIT)",
+      "artist": "Galla",
+      "has_synced": false,
+      "path": "select/02_キミがいる_(TV_EDIT)_Galla.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/03_キミがいる_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "Galla",
+      "has_synced": true,
+      "path": "select/04_キミがいる_Galla.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "Galla",
+      "has_synced": true,
+      "path": "select/05_キミがいる_Galla.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "CHEMISTRY",
+      "has_synced": false,
+      "path": "select/06_キミがいる_CHEMISTRY.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_キミがいる_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "キミがいる",
+      "artist": "生物股长",
+      "has_synced": false,
+      "path": "select/08_キミがいる_生物股长.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミがいる",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_キミがいる_いきものがかり.txt"
+    }
+  ]
+}
